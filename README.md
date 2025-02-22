@@ -1,5 +1,4 @@
-# MQL5-Python-Backtesting
-MQL5 based backtesting using python
+# MQL5-Python-real auto trading system
 
 
 Trading strategies send the buy, sell or hold signal to MQL5
