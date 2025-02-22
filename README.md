@@ -11,6 +11,5 @@ How to run the Strategies:
 3. Start the backtesting in Metatrader 5
 4. Copy the python files along with the strategy folder(trading_strategies) into Metatrader 5 testing/files folder
 5. copy other python files - main_decisionmaker.py, output.py and actionWriter.py
-6. run main_decisionmaker.py
+6. run main_decisionmaker_machinlearning.py
 
-Explained in this video https://www.youtube.com/watch?v=ovKgQdiQsHE&t=764s
